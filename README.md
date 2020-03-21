@@ -1,5 +1,5 @@
 # USNews-WebScraping
-In this small project, I used the website of usnews to do an example of web scraping.
+In this small project, I used the website of usnews to do an example of web scraping in Python, R and Java..
 
 I decoded the html website code of usnews, then identified the second story of top stories. I web-scraped the title and the first three lines of body text of the second story using "tokenize".
 
